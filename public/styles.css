@@ -696,6 +696,10 @@ video {
   text-align: center;
 }
 
+.font-inter{
+  font-family: Inter, sans-serif;
+}
+
 .text-xl{
   font-size: 1.25rem;
   line-height: 1.75rem;
