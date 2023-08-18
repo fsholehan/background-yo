@@ -678,6 +678,10 @@ video {
   border-radius: 9999px;
 }
 
+.bg-fixed{
+  background-attachment: fixed;
+}
+
 .object-cover{
   -o-object-fit: cover;
      object-fit: cover;
